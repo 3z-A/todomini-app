@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todomini-app/static/css/main.a061ee63.css",
+    "main.js": "/todomini-app/static/js/main.7a9af154.js",
+    "static/js/453.d99a3e6d.chunk.js": "/todomini-app/static/js/453.d99a3e6d.chunk.js",
+    "index.html": "/todomini-app/index.html",
+    "main.a061ee63.css.map": "/todomini-app/static/css/main.a061ee63.css.map",
+    "main.7a9af154.js.map": "/todomini-app/static/js/main.7a9af154.js.map",
+    "453.d99a3e6d.chunk.js.map": "/todomini-app/static/js/453.d99a3e6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a061ee63.css",
+    "static/js/main.7a9af154.js"
+  ]
+}
