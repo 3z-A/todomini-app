@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:
+    radial-gradient(900px circle at 0% 0%, rgb(39 99 255 / 28%), transparent 50%),
+    radial-gradient(700px circle at 100% 100%, rgb(52 211 153 / 18%), transparent 55%),
+    var(--tg-bg-color);
+  color: var(--tg-text-color);
+}
+
+:root {
+  --tg-bg-color: #101425;
+  --tg-text-color: #f5f7ff;
+  --tg-button-color: #2e7dff;
+  --tg-button-text-color: #ffffff;
+  --tg-hint-color: #98a1c5;
+  --tg-link-color: #7cb0ff;
+  --tg-secondary-bg-color: #171d34;
+}
+
+* {
+  box-sizing: border-box;
+}
