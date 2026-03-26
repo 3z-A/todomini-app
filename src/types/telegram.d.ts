@@ -68,3 +68,5 @@ declare global {
     sendData(data: string): void;
   }
 }
+
+

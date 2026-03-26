@@ -55,3 +55,5 @@ export const getUserLabel = (user?: TelegramWebAppUser): string => {
 
   return [user.first_name, user.last_name].filter(Boolean).join(" ");
 };
+
+
